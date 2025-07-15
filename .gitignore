@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/build
+/public/pdfjs
+/public/pdfjs-dist
+/public/pdfjs-dist-2.16.105
+/public/pdfjs-dist-2.16.105-es5
+/public/pdfjs-dist-2.16.105-es5-dist
+/public/pdfjs-dist-2.16.105-es5-dist-2.16.105
+/public/pdfjs-dist-2.16.105-es5-dist-2.16.105-es5
