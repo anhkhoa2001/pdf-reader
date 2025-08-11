@@ -2249,6 +2249,10 @@
             checkAnswer();
         });
 
+        document.getElementById('newWordBtn').addEventListener('click', () => {
+            pickRandomVerb();
+        });
+
         document.querySelectorAll('#v2, #v3').forEach(input => {
             console.log(input);
             input.addEventListener('keypress', function(e) {
